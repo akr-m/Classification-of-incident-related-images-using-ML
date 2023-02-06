@@ -1,1 +1,5 @@
-# Classification-of-incident-related-images-using-ML
+# Classification of incident related images using ML
+
+Natural disasters necessitate quick intervention to deal with human emergencies efficiently. With the emergence of social media, large amounts of images can be quickly accessed when an incident is happening and classifying them is primordial. While image classification tasks in machine learning have been studied thoroughly,  recent advances show that combining feature extraction with deep learning models lead to better accuracy performance with less complex and computationally-expensive networks. In this work, feature extraction methods are combined with dimension reduction  in order to create pipelines that generate feature vectors. These vectors are used as input to train simpler models for classifying incident-related images. By exploring the parameters of the pipelines, a better interpretability of the models and understanding of the tradeoff between data reduction \& performance can be reached.
+
+*This project is part of the Data Science (2022-1B) course at the University of Twente*
